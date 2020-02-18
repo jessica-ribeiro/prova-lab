@@ -1,0 +1,26 @@
+.title {
+    text-align: center;
+}
+
+.script {
+    text-align: center;
+    font-size: 25px;
+}
+
+.respostasCorretas {
+    color: #3CB371;
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    border: 1px solid black;
+    height: 300px;
+}
+
+.respostasErradas {
+    color: red;
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    border: 1px solid black;
+    height: 300px;
+}
